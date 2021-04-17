@@ -1,0 +1,6 @@
+E:\facultad\2-programacion II\2021\tps\tp_laboratorio_2\1_CalculadoraTp\Entidades\bin\Debug\Entidades.dll
+E:\facultad\2-programacion II\2021\tps\tp_laboratorio_2\1_CalculadoraTp\Entidades\bin\Debug\Entidades.pdb
+E:\facultad\2-programacion II\2021\tps\tp_laboratorio_2\1_CalculadoraTp\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+E:\facultad\2-programacion II\2021\tps\tp_laboratorio_2\1_CalculadoraTp\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+E:\facultad\2-programacion II\2021\tps\tp_laboratorio_2\1_CalculadoraTp\Entidades\obj\Debug\Entidades.dll
+E:\facultad\2-programacion II\2021\tps\tp_laboratorio_2\1_CalculadoraTp\Entidades\obj\Debug\Entidades.pdb

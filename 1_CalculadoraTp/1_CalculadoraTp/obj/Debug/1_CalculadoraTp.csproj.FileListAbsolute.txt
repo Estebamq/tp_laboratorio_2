@@ -1,0 +1,13 @@
+E:\facultad\2-programacion II\2021\tps\tp_laboratorio_2\1_CalculadoraTp\1_CalculadoraTp\bin\Debug\1_CalculadoraTp.exe.config
+E:\facultad\2-programacion II\2021\tps\tp_laboratorio_2\1_CalculadoraTp\1_CalculadoraTp\bin\Debug\1_CalculadoraTp.exe
+E:\facultad\2-programacion II\2021\tps\tp_laboratorio_2\1_CalculadoraTp\1_CalculadoraTp\bin\Debug\1_CalculadoraTp.pdb
+E:\facultad\2-programacion II\2021\tps\tp_laboratorio_2\1_CalculadoraTp\1_CalculadoraTp\bin\Debug\Entidades.dll
+E:\facultad\2-programacion II\2021\tps\tp_laboratorio_2\1_CalculadoraTp\1_CalculadoraTp\bin\Debug\Entidades.pdb
+E:\facultad\2-programacion II\2021\tps\tp_laboratorio_2\1_CalculadoraTp\1_CalculadoraTp\obj\Debug\1_CalculadoraTp.csprojAssemblyReference.cache
+E:\facultad\2-programacion II\2021\tps\tp_laboratorio_2\1_CalculadoraTp\1_CalculadoraTp\obj\Debug\_1_CalculadoraTp.Properties.Resources.resources
+E:\facultad\2-programacion II\2021\tps\tp_laboratorio_2\1_CalculadoraTp\1_CalculadoraTp\obj\Debug\1_CalculadoraTp.csproj.GenerateResource.cache
+E:\facultad\2-programacion II\2021\tps\tp_laboratorio_2\1_CalculadoraTp\1_CalculadoraTp\obj\Debug\1_CalculadoraTp.csproj.CoreCompileInputs.cache
+E:\facultad\2-programacion II\2021\tps\tp_laboratorio_2\1_CalculadoraTp\1_CalculadoraTp\obj\Debug\1_CalculadoraTp.csproj.CopyComplete
+E:\facultad\2-programacion II\2021\tps\tp_laboratorio_2\1_CalculadoraTp\1_CalculadoraTp\obj\Debug\1_CalculadoraTp.exe
+E:\facultad\2-programacion II\2021\tps\tp_laboratorio_2\1_CalculadoraTp\1_CalculadoraTp\obj\Debug\1_CalculadoraTp.pdb
+E:\facultad\2-programacion II\2021\tps\tp_laboratorio_2\1_CalculadoraTp\1_CalculadoraTp\obj\Debug\_1_CalculadoraTp.FormCalculadora.resources
