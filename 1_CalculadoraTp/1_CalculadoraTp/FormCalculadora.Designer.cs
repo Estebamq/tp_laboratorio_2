@@ -51,17 +51,19 @@ namespace _1_CalculadoraTp
             // 
             // txtNumero1
             // 
-            this.txtNumero1.Location = new System.Drawing.Point(23, 70);
+            this.txtNumero1.Font = new System.Drawing.Font("Microsoft Sans Serif", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.txtNumero1.Location = new System.Drawing.Point(23, 61);
             this.txtNumero1.Name = "txtNumero1";
-            this.txtNumero1.Size = new System.Drawing.Size(100, 20);
+            this.txtNumero1.Size = new System.Drawing.Size(100, 29);
             this.txtNumero1.TabIndex = 1;
             // 
             // cmbOperador
             // 
+            this.cmbOperador.Font = new System.Drawing.Font("Microsoft Sans Serif", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.cmbOperador.FormattingEnabled = true;
-            this.cmbOperador.Location = new System.Drawing.Point(155, 69);
+            this.cmbOperador.Location = new System.Drawing.Point(155, 57);
             this.cmbOperador.Name = "cmbOperador";
-            this.cmbOperador.Size = new System.Drawing.Size(121, 21);
+            this.cmbOperador.Size = new System.Drawing.Size(121, 32);
             this.cmbOperador.TabIndex = 2;
             // 
             // btnOperar
@@ -76,9 +78,10 @@ namespace _1_CalculadoraTp
             // 
             // txtNumero2
             // 
-            this.txtNumero2.Location = new System.Drawing.Point(311, 69);
+            this.txtNumero2.Font = new System.Drawing.Font("Microsoft Sans Serif", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.txtNumero2.Location = new System.Drawing.Point(311, 60);
             this.txtNumero2.Name = "txtNumero2";
-            this.txtNumero2.Size = new System.Drawing.Size(100, 20);
+            this.txtNumero2.Size = new System.Drawing.Size(100, 29);
             this.txtNumero2.TabIndex = 3;
             // 
             // btnLimpiar
@@ -142,6 +145,8 @@ namespace _1_CalculadoraTp
             this.Name = "FormCalculadora";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Calculadora de Esteban Marcelo Quiroz  del curso 2ºC";
+            this.FormClosing += new System.Windows.Forms.FormClosingEventHandler(this.FormCalculadora_FormClosing);
+            this.Load += new System.EventHandler(this.FormCalculadora_Load);
             this.ResumeLayout(false);
             this.PerformLayout();
 

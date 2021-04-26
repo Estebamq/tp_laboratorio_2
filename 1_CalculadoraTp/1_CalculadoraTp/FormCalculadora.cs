@@ -16,9 +16,19 @@ namespace _1_CalculadoraTp
         public FormCalculadora()
         {
             InitializeComponent();
+            //cargo operadores en el combobox
+            cmbOperador.Items.Add('+');
+            cmbOperador.Items.Add('-');
+            cmbOperador.Items.Add('*');
+            cmbOperador.Items.Add('/');
         }
 
-        
+        private void FormCalculadora_Load(object sender, EventArgs e)
+        {
+            Limpiar();
+        }
+
+
         //BOTONES
         private void btnConvertirABinario_Click(object sender, EventArgs e)
         {
@@ -81,6 +91,19 @@ namespace _1_CalculadoraTp
         }
 
 
-
+        private void FormCalculadora_FormClosing(object sender, FormClosingEventArgs e)
+        {
+            DialogResult result = MessageBox.Show("¿Seguro de querer salir?", "Salir", MessageBoxButtons.YesNo, MessageBoxIcon.Question);
+     
+            
+            if(result==DialogResult.Yes) 
+            {
+               Dispose();
+            }
+            else 
+            {
+                e.Cancel = true;
+            }
+        }
     }
 }
