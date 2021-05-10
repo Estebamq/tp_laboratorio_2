@@ -20,9 +20,9 @@ namespace Entidades
         {
             Chico, Mediano, Grande
         }
-        protected EMarca marca;
-        protected string chasis;
-        protected ConsoleColor color;
+        private EMarca marca;
+        private string chasis;
+        private ConsoleColor color;
 
         #endregion
 

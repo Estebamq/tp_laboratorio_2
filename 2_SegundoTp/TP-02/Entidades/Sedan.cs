@@ -11,7 +11,7 @@ namespace Entidades
     {
         #region Enum & Constructores
         public enum ETipo { CuatroPuertas, CincoPuertas }
-        ETipo tipo;
+        private ETipo tipo;
 
         /// <summary>
         /// Por defecto, TIPO será CuatroPuertas
