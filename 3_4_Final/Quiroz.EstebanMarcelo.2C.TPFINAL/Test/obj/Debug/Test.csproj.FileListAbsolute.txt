@@ -1,0 +1,14 @@
+E:\facultad\2-programacion II\2021\tps\TP3\Quiroz.EstebanMarcelo.2C.TPFINAL\Test\bin\Debug\Test.exe.config
+E:\facultad\2-programacion II\2021\tps\TP3\Quiroz.EstebanMarcelo.2C.TPFINAL\Test\bin\Debug\Test.exe
+E:\facultad\2-programacion II\2021\tps\TP3\Quiroz.EstebanMarcelo.2C.TPFINAL\Test\bin\Debug\Test.pdb
+E:\facultad\2-programacion II\2021\tps\TP3\Quiroz.EstebanMarcelo.2C.TPFINAL\Test\bin\Debug\Common.dll
+E:\facultad\2-programacion II\2021\tps\TP3\Quiroz.EstebanMarcelo.2C.TPFINAL\Test\bin\Debug\Domain.dll
+E:\facultad\2-programacion II\2021\tps\TP3\Quiroz.EstebanMarcelo.2C.TPFINAL\Test\bin\Debug\Common.pdb
+E:\facultad\2-programacion II\2021\tps\TP3\Quiroz.EstebanMarcelo.2C.TPFINAL\Test\bin\Debug\Domain.pdb
+E:\facultad\2-programacion II\2021\tps\TP3\Quiroz.EstebanMarcelo.2C.TPFINAL\Test\obj\Debug\Test.csprojAssemblyReference.cache
+E:\facultad\2-programacion II\2021\tps\TP3\Quiroz.EstebanMarcelo.2C.TPFINAL\Test\obj\Debug\Test.csproj.CoreCompileInputs.cache
+E:\facultad\2-programacion II\2021\tps\TP3\Quiroz.EstebanMarcelo.2C.TPFINAL\Test\obj\Debug\Test.csproj.CopyComplete
+E:\facultad\2-programacion II\2021\tps\TP3\Quiroz.EstebanMarcelo.2C.TPFINAL\Test\obj\Debug\Test.exe
+E:\facultad\2-programacion II\2021\tps\TP3\Quiroz.EstebanMarcelo.2C.TPFINAL\Test\obj\Debug\Test.pdb
+E:\facultad\2-programacion II\2021\tps\TP3\Quiroz.EstebanMarcelo.2C.TPFINAL\Test\bin\Debug\DataAccess.dll
+E:\facultad\2-programacion II\2021\tps\TP3\Quiroz.EstebanMarcelo.2C.TPFINAL\Test\bin\Debug\DataAccess.pdb

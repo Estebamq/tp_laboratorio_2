@@ -1,0 +1,9 @@
+E:\facultad\2-programacion II\2021\tps\TP3\Quiroz.EstebanMarcelo.2C.TPFINAL\Domain\bin\Debug\Domain.dll
+E:\facultad\2-programacion II\2021\tps\TP3\Quiroz.EstebanMarcelo.2C.TPFINAL\Domain\bin\Debug\Domain.pdb
+E:\facultad\2-programacion II\2021\tps\TP3\Quiroz.EstebanMarcelo.2C.TPFINAL\Domain\bin\Debug\Common.dll
+E:\facultad\2-programacion II\2021\tps\TP3\Quiroz.EstebanMarcelo.2C.TPFINAL\Domain\bin\Debug\Common.pdb
+E:\facultad\2-programacion II\2021\tps\TP3\Quiroz.EstebanMarcelo.2C.TPFINAL\Domain\obj\Debug\Domain.csprojAssemblyReference.cache
+E:\facultad\2-programacion II\2021\tps\TP3\Quiroz.EstebanMarcelo.2C.TPFINAL\Domain\obj\Debug\Domain.csproj.CoreCompileInputs.cache
+E:\facultad\2-programacion II\2021\tps\TP3\Quiroz.EstebanMarcelo.2C.TPFINAL\Domain\obj\Debug\Domain.csproj.CopyComplete
+E:\facultad\2-programacion II\2021\tps\TP3\Quiroz.EstebanMarcelo.2C.TPFINAL\Domain\obj\Debug\Domain.dll
+E:\facultad\2-programacion II\2021\tps\TP3\Quiroz.EstebanMarcelo.2C.TPFINAL\Domain\obj\Debug\Domain.pdb
